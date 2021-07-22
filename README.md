@@ -3,6 +3,7 @@
 - 👯 I’m looking to collaborate on PHP, Java, C development. Im a junior developer with degree in Computer Systems Engineering at Universidade Fernando Pessoa.
 - 📫 How to reach me:
       -email: ricardosimoesrs2013@gmail.com
+      
       -linkedIn: www.linkedin.com/in/ricardosimões
       
  
